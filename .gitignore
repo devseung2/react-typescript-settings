@@ -1,6 +1,5 @@
 node_modules
 dist
 yarn-error.log
-.storybook
 storybook-static
 *.stories.tsx
